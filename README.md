@@ -8,7 +8,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Day 2 Lab Connecting Devices](https://www.youtube.com/watch?v=JlkABUDyBZU))
+- ### [YouTube: Day 2 Lab Connecting Devices](https://www.youtube.com/watch?v=JlkABUDyBZU)
 
 <h2>Environments and Technologies Used</h2>
 
