@@ -2,8 +2,6 @@
 
 </p>
 
-<h1></h1>
-<br />
 
 
 <h2>Video Demonstration</h2>
